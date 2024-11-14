@@ -1,5 +1,6 @@
 # Blogging Platform API
-A RESTful API for a blogging platform .
+A RESTful API for a blogging platform.
+This is my solution for [roadmap.sh Blogging Platform API Backend Challenge](https://roadmap.sh/projects/blogging-platform-api)
 
 ## Prerequisites
 - Go 1.21.11 or higher
